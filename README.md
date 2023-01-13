@@ -1,6 +1,6 @@
 ## hi there! 👋
 
-😸 I’m a full-stack developer passionate about human-centered design and seeking to create accessible, impactful technology. 🎨 I also really like to draw in Procreate with my Apple pencil and journal in my free time.
+😸 I’m a full-stack developer passionate about human-centered design and seeking to create accessible, impactful technology. I also really like to draw 🎨  in Procreate with my Apple pencil and journal in my free time.
 
 - ✨ Pronouns: she/her
 - 👉 Personal website: [chanmioh.github.io](https://chanmioh.github.io/)
