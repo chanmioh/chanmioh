@@ -6,4 +6,3 @@
 
 - ✨ Pronouns: she/her
 - 👉 Personal website: [chanmioh.github.io](https://chanmioh.github.io/)
-- 📌 Currently working on: [Digital Archive of Indigenous Language Persistence (DAILP)](https://dailp.northeastern.edu/) at Northeastern
